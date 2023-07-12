@@ -155,7 +155,7 @@ Para finalizar, calculamos o fatorial de cada valor dígitado anteriormente, con
     }
 
 ### Resultado da execução
-![Imagem Terminal](https://github.com/iure06/Programming2-activitys/commit/045552f5c7333797a601c65415df5892426c2a28#diff-a07e91ca2ef441dc7bf198d6a3ae893a98078dd462cfed1e37dc4dbdb50cda72)
+![Imagem Terminal](https://github.com/Danilo505/activity-programming2/blob/main/src/Quest%C3%A3o1/Imagens1/ResultadoEmExecu%C3%A7%C3%A3o1.2.jpeg)
 
 ### Fluxograma
 ![Fluxograma](https://github.com/Danilo505/activity-programming2/blob/main/src/Quest%C3%A3o1/Imagens1/Fluxograma1.2.jpeg)
